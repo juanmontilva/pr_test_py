@@ -8,7 +8,7 @@ def test_compare_sum():
     assert token == True
 
 def test_compare_subtract():
-    r = restar()
+    r = resta()
     token = False
     if r == 1:
         token = True
